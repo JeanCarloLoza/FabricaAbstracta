@@ -1,0 +1,11 @@
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp3.1\FabricaAbstracta.csprojAssemblyReference.cache
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp3.1\FabricaAbstracta.AssemblyInfoInputs.cache
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp3.1\FabricaAbstracta.AssemblyInfo.cs
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp3.1\FabricaAbstracta.exe
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp3.1\FabricaAbstracta.deps.json
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp3.1\FabricaAbstracta.runtimeconfig.json
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp3.1\FabricaAbstracta.runtimeconfig.dev.json
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp3.1\FabricaAbstracta.dll
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\bin\Debug\netcoreapp3.1\FabricaAbstracta.pdb
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp3.1\FabricaAbstracta.dll
+C:\Trabajo\Cursos\Patrones\FabricaAbstracta\FabricaAbstracta\FabricaAbstracta\obj\Debug\netcoreapp3.1\FabricaAbstracta.pdb
