@@ -6,6 +6,6 @@ namespace FabricaAbstracta
 {
     interface IProcesador
     {
-        public string Procesar(double dCantidad,string cClaveProducto);
+        public void Procesar(int dCantidad,string cClaveProducto);
     }
 }

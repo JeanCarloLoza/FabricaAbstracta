@@ -10,7 +10,7 @@ namespace FabricaAbstracta
             string cProvedor = "";
             string cProducto = "";
             string cCantidad = "";
-            double dCantidad = 0;
+            int dCantidad = 0;
             string cRespuesta = "";
 
             Console.WriteLine("Provedor");
@@ -22,7 +22,7 @@ namespace FabricaAbstracta
 
             cProvedor = cProvedor.ToUpper();
             cProducto = cProducto.ToUpper();
-            dCantidad = double.Parse(cCantidad);
+            dCantidad = int.Parse(cCantidad);
 
             switch (cProvedor)
             {
@@ -38,10 +38,7 @@ namespace FabricaAbstracta
 
             IProcesador procesador = new ProcesadorPedido(fabrica);
 
-            cRespuesta = procesador.Procesar(dCantidad, cProducto);
-
-            Console.WriteLine(string.Format("Requisición: Compra de {0} {1} con {2}",cCantidad,cProducto,cProvedor));
-            Console.WriteLine(cRespuesta);
+            procesador.Procesar(dCantidad, cProducto);
         }
     }
 }

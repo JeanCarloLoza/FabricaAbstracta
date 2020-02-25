@@ -4,7 +4,8 @@ using System.Text;
 
 namespace FabricaAbstracta
 {
-    interface ITeclado : IProducto
+    interface iTipo
     {
+        public void imprimeMensaje(int cantidad);
     }
 }

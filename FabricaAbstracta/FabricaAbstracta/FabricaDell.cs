@@ -6,12 +6,13 @@ namespace FabricaAbstracta
 {
     class FabricaDell : IFabricaProductos
     {
-        public ITeclado GeneraTeclado() {
-            return new TecladoDell();
+        public ICotizacion GeneraCotizacion() {
+            return new CotizacionDell();
         }
 
-        public IPantalla GeneraPantalla() {
-            return new PantallaDell();
+        public IRequisicion GeneraRequisicion() {
+            return new RequisicionDell();
         }
+
     }
 }

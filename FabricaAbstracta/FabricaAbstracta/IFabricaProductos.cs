@@ -6,8 +6,8 @@ namespace FabricaAbstracta
 {
     interface IFabricaProductos
     {
-        public ITeclado GeneraTeclado();
+        public IRequisicion GeneraRequisicion();
 
-        public IPantalla GeneraPantalla();
+        public ICotizacion GeneraCotizacion();
     }
 }

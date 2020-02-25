@@ -6,14 +6,14 @@ namespace FabricaAbstracta
 {
     class FabricaHP : IFabricaProductos
     {
-        public ITeclado GeneraTeclado()
+        public ICotizacion GeneraCotizacion()
         {
-            return new TecladoHP();
+            return new CotizacionHP();
         }
 
-        public IPantalla GeneraPantalla()
+        public IRequisicion GeneraRequisicion()
         {
-            return new PantallaHP();
+            return new requisicionHP();
         }
     }
 }
